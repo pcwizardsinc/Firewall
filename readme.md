@@ -12,7 +12,7 @@ Note: This feed is stripped of raw IP addresses and formatted strictly as a clea
 
 About DNS Sinkholes:
 
-Both Pi-hole and AdGuard Home act as network-wide DNS sinkholes. By setting one up on your local network, you can block tracking, ads, and malicious cyber threats across every device in your home—including smart TVs and IoT devices—without installing any client-side software.
+Both Pi-hole and AdGuard Home act as network-wide DNS sinkholes. By setting one up on your local network, you can block tracking, ads, and malicious cyber threats across every device in your home including smart TVs and IoT devices—without installing any client-side software.
 
 Links of Note:
 
