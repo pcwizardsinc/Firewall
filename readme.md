@@ -7,7 +7,7 @@ How to use this in Pi-hole / AdGuard Home:
 
 Copy the raw URL link below and add it to your network's Adlist / Blocklist management console:
 
-https://raw.githubusercontent.com/pcwizardsinc/Firewall/refs/heads/main/domain_blocklist.txt
+(https://raw.githubusercontent.com/pcwizardsinc/Firewall/refs/heads/main/MergedList.txt)
 Note: This feed is stripped of raw IP addresses and formatted strictly as a clean, DNS-compatible domain list to ensure network stability.
 
 About DNS Sinkholes:
