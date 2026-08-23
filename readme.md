@@ -16,5 +16,6 @@ Both Pi-hole and AdGuard Home act as network-wide DNS sinkholes. By setting one 
 
 Links of Note:
 
-Pi-hole Project Official Site
-AdGuard Home Overview
+Pi-hole Project Official Site https://pi-hole.net/
+
+AdGuard Home Overview https://adguard.com/en/adguard-home/overview.html
